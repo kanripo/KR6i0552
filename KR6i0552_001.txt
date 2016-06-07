@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:30.486181
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:26
 #+TITLE: 大方廣圓覺修多羅了義經（選錄「附文：金剛禮一本」）
 #+PROPERTY: CBETA_ID F12n0546
 #+PROPERTY: ID KR6i0552
 #+PROPERTY: SOURCE Fangshan shijing Vol. 12, No. 546
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0552_F_001-0092b> 
 #+PROPERTY: JUAN 1
 通理大師集¶
-
- 金剛礼一本
+金剛礼一本
 作供梵嘆如常依慈氏礼聲¶
  | 志心㱕命礼 |法身非相 |應化非真 |福智無比 |無為福勝 |¶
  | 一相無相 |化無所化 |無断無滅 |法界通化 |¶
